@@ -21,3 +21,6 @@ This is a personal portfolio website for **Seraphine Nato**, a Frontend Develope
 
 © 2025 Seraphine Nato
 
+## THE LINK TO THE HOSTED SITE
+https://serahmukoya.github.io/Serah_Nato/
+
